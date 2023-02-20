@@ -1,3 +1,5 @@
+// jokhon kono peramitar a arguments set kora hoinh,, tokhon default heseve, peramittaer set korai holo dafult peramittaers
+
 // option 1
 function add(num1 ,num2){
     if(num2 == undefined){
