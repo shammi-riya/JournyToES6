@@ -1,4 +1,4 @@
-
+// ekta array ba object thaka multiple data extract kora niya asa k destructuring bola;
 // array destructring
 let a, b, rest;
 
